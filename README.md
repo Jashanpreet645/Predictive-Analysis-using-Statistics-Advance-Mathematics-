@@ -1,4 +1,4 @@
-<img width="371" height="66" alt="image" src="https://github.com/user-attachments/assets/fab7a587-d56a-4abf-a99f-68717c797593" /># Predictive-Analysis-using-Statistics-Advance-Mathematics
+# Predictive-Analysis-using-Statistics-Advance-Mathematics
 
 # 1. Methodology
 Data Collection ----> Column Selection ---> Data Transformation ----> Parameters and Probability function estimation ----> Parameters printing
@@ -16,4 +16,4 @@ Data Collection ----> Column Selection ---> Data Transformation ----> Parameters
 - Printing optimal values of parameters (lamda, mu, c)
 
 # 4. Results
-<img width="473" height="80" alt="image" src="" />
+<img width="473" height="80" alt="image" src=""/>
